@@ -48,3 +48,4 @@ Resources for learning how to make PCB badge art
 * [Inkscape Export Layers](https://github.com/jespino/inkscape-export-layers)
 * [bitmap2component](https://github.com/KiCad/kicad-source-mirror/tree/master/bitmap2component)
 * [svg2mod](https://github.com/svg2mod/svg2mod)
+* [KiCAD JLCPCB tools](https://github.com/Bouni/kicad-jlcpcb-tools)
