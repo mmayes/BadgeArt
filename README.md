@@ -55,3 +55,4 @@ Resources for learning how to make PCB badge art
 * [PRINTED CIRCUIT BOARD SURFACE FINISHES: ADVANTAGES AND DISADVANTAGES](https://www.epectec.com/articles/pcb-surface-finish-advantages-and-disadvantages.html)
 * [How to Easily Invert Solder Mask Layer Graphics](https://forum.kicad.info/t/how-to-easily-invert-solder-mask-layer-graphics/13383)
 * [How can I write text in solder mask?](https://forum.kicad.info/t/how-can-i-write-text-in-solder-mask/11587)
+* [Halftone PCB art](http://ianrrees.github.io/2018/06/20/pcb-graphics-with-kicad-+-gimp.html)
