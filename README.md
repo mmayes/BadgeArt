@@ -49,3 +49,9 @@ Resources for learning how to make PCB badge art
 * [bitmap2component](https://github.com/KiCad/kicad-source-mirror/tree/master/bitmap2component)
 * [svg2mod](https://github.com/svg2mod/svg2mod)
 * [KiCAD JLCPCB tools](https://github.com/Bouni/kicad-jlcpcb-tools)
+
+### Helpful pages for specific issues
+* [How to include the canvas in an Inkscape PNG export?](https://graphicdesign.stackexchange.com/questions/137238/how-to-include-the-canvas-in-an-inkscape-png-export)
+* [PRINTED CIRCUIT BOARD SURFACE FINISHES: ADVANTAGES AND DISADVANTAGES](https://www.epectec.com/articles/pcb-surface-finish-advantages-and-disadvantages.html)
+* [How to Easily Invert Solder Mask Layer Graphics](https://forum.kicad.info/t/how-to-easily-invert-solder-mask-layer-graphics/13383)
+* [How can I write text in solder mask?](https://forum.kicad.info/t/how-can-i-write-text-in-solder-mask/11587)
