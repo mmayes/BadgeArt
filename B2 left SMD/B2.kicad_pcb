@@ -1,4 +1,4 @@
-(kicad_pcb (version 20220427) (generator pcbnew)
+(kicad_pcb (version 20220621) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -44,7 +44,7 @@
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions true)
-      (usegerberattributes false)
+      (usegerberattributes true)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
       (dashed_line_dash_ratio 12.000000)
