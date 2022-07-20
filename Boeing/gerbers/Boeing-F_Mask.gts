@@ -1,22 +1,28 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-2103-gdc6c27b686)*
-G04 #@! TF.CreationDate,2022-07-02T11:52:24+09:00*
-G04 #@! TF.ProjectId,Boeing,426f6569-6e67-42e6-9b69-6361645f7063,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Soldermask,Top*
-G04 #@! TF.FilePolarity,Negative*
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-2452-gdb4f2d9dd8)*%
+%TF.CreationDate,2022-07-19T12:50:50+04:00*%
+%TF.ProjectId,Boeing,426f6569-6e67-42e6-9b69-6361645f7063,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.99.0-2103-gdc6c27b686)) date 2022-07-02 11:52:24*
+G04 Created by KiCad (PCBNEW (6.99.0-2452-gdb4f2d9dd8)) date 2022-07-19 12:50:50*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%ADD10R,1.700000X1.700000*%
-%ADD11O,1.700000X1.700000*%
+%ADD10R,1.800000X1.800000*%
+%ADD11C,1.800000*%
+%ADD12R,1.700000X1.700000*%
+%ADD13O,1.700000X1.700000*%
 G04 APERTURE END LIST*
 D10*
-X110574999Y-66824999D03*
+X105799999Y-71699999D03*
 D11*
+X103260000Y-71700000D03*
+D12*
+X110574999Y-66824999D03*
+D13*
 X110574999Y-69364999D03*
 X113114999Y-66824999D03*
 X113114999Y-69364999D03*
