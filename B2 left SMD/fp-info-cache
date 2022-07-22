@@ -1,4 +1,4 @@
-20304469694188834
+20366314886271473
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61621,6 +61621,20 @@ Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www
 134
 134
 Package_BGA
+MAPBGA_9x9mm_Layout17x17_P0.5mm
+MAPBGA 9x9x1.11 PKG, 9.0x9.0mm, 272 Ball, 17x17 Layout, 0.5mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1
+BGA 272 0.5
+0
+272
+272
+Package_BGA
+MAPBGA_14x14mm_Layout17x17_P0.8mm
+MAPBGA 14x14x1.18 PKG, 14.0x14.0mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00855D.pdf#page=1
+BGA 289 0.8
+0
+289
+289
+Package_BGA
 Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
 Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF
 Maxim_WLP-9
@@ -61641,6 +61655,48 @@ BGA 196 0.75
 0
 196
 196
+Package_BGA
+Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm
+FBGA-78, 10.6x7.5mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x8.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=25
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x9.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=23
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm
+FBGA-96, 13.5x7.5mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=27
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x8.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=28
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_9x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x9.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=26
+BGA 96 0.8
+0
+96
+96
 Package_BGA
 ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf
@@ -62552,8 +62608,8 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
 CSP 35 0.4
 0
 35
@@ -64412,6 +64468,20 @@ QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#
 QFN NoLead
 0
 55
+29
+Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+38
+29
+Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
 29
 Package_DFN_QFN
 QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm
@@ -78834,6 +78904,13 @@ DFN Sensor optical IR
 8
 8
 Sensor
+LuminOX_LOX-O2
+SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
+SST LuminOX O2
+0
+4
+4
+Sensor
 MQ-6
 Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
 gas sensor
@@ -78861,6 +78938,13 @@ co2 gas sensor pwm modbus
 0
 9
 9
+Sensor
+Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
+Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Sensirion QFN NoLead
+0
+25
+21
 Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
@@ -84566,6 +84650,13 @@ Ethernet Transformer
 0
 16
 16
+Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
 Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
