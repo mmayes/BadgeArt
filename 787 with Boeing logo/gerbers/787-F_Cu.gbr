@@ -1,22 +1,22 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-2452-gdb4f2d9dd8)*%
-%TF.CreationDate,2022-07-19T11:44:13+04:00*%
-%TF.ProjectId,787,3738372e-6b69-4636-9164-5f7063625858,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Copper,L1,Top*%
-%TF.FilePolarity,Positive*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-2452-gdb4f2d9dd8)*
+G04 #@! TF.CreationDate,2022-07-21T06:50:33-08:00*
+G04 #@! TF.ProjectId,787,3738372e-6b69-4636-9164-5f7063625858,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.99.0-2452-gdb4f2d9dd8)) date 2022-07-19 11:44:13*
+G04 Created by KiCad (PCBNEW (6.99.0-2452-gdb4f2d9dd8)) date 2022-07-21 06:50:33*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%TA.AperFunction,ComponentPad*%
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD10R,1.700000X1.700000*%
-%TD*%
-%TA.AperFunction,ComponentPad*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD11O,1.700000X1.700000*%
-%TD*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X140419999Y-94899999D03*
@@ -26,7 +26,7 @@ X142959999Y-94899999D03*
 X142959999Y-97439999D03*
 X145499999Y-94899999D03*
 X145499999Y-97439999D03*
-%TA.AperFunction,NonConductor*%
+G04 #@! TA.AperFunction,NonConductor*
 G36*
 X144313226Y-95575670D02*
 G01*
@@ -89,8 +89,8 @@ X144178521Y-95555268D01*
 X144248868Y-95545693D01*
 X144313226Y-95575670D01*
 G37*
-%TD.AperFunction*%
-%TA.AperFunction,NonConductor*%
+G04 #@! TD.AperFunction*
+G04 #@! TA.AperFunction,NonConductor*
 G36*
 X141943439Y-95811388D02*
 G01*
@@ -143,8 +143,8 @@ X141807545Y-95821108D01*
 X141874065Y-95796297D01*
 X141943439Y-95811388D01*
 G37*
-%TD.AperFunction*%
-%TA.AperFunction,NonConductor*%
+G04 #@! TD.AperFunction*
+G04 #@! TA.AperFunction,NonConductor*
 G36*
 X145315111Y-64690880D02*
 G01*
@@ -2430,5 +2430,5 @@ X144877733Y-64691408D01*
 X145314137Y-64690877D01*
 X145315111Y-64690880D01*
 G37*
-%TD.AperFunction*%
+G04 #@! TD.AperFunction*
 M02*

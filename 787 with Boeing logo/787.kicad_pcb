@@ -43,8 +43,8 @@
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
-      (usegerberextensions true)
-      (usegerberattributes true)
+      (usegerberextensions false)
+      (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
       (dashed_line_dash_ratio 12.000000)
@@ -15607,7 +15607,6 @@
   )
   (group "" (id 6bcd70bd-092b-409a-8715-50536a9f2696)
     (members
-      a775cf90-c5bc-4b34-b58a-0b7ab579e332
       e582cc5c-cb68-4aa8-95c5-ad5305bca3d2
     )
   )
